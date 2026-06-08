@@ -1,0 +1,2 @@
+front text | back text
+card 2 | random
